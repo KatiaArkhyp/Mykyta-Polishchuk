@@ -1,0 +1,68 @@
+[
+  {"name":"iostream","price":50,"sale":0},
+  {"name":"stdio.h","price":15,"sale":10},
+  {"name":"int","price":25,"sale":0},
+  {"name":"float","price":25,"sale":0},
+  {"name":"string","price":25,"sale":0},
+  {"name":"char","price":25,"sale":0},
+
+  {"name":"STL pack all in one","price":6000,"sale":25},
+  {"name":"X5 namespace's pack (SPECIAL DEAL)","price":850,"sale":10},
+  {"name":"namespace","price":200,"sale":15},
+
+  {"name":"All IDE's pack (with disassembler) SPECIAL DEAL","price":3190,"sale":10},
+  {"name":"Code::blocks","price":1500,"sale":15},
+  {"name":"Visual Studio Code","price":450,"sale":5},
+  {"name":"Dev C++ - WITH DISASSEMBLER","price":1487.5,"sale":0},
+  {"name":"Dev C++ - Stock","price":1500,"sale":15},
+  {"name":"Disassembler","price":250,"sale":15},
+
+  {"name":"cmath","price":50,"sale":75},
+  {"name":"C++ DOCS FULL PACK -- SALE","price":24000,"sale":50},
+
+  {"name":"Python hate stuff pack -- SALE","price":1200,"sale":50},
+  {"name":"C# hate stuff pack -- SALE","price":1200,"sale":50},
+
+  {"name":"Universal makefiles' collection","price":4500,"sale":12},
+  {"name":"Stack overflow error fix kit (no guarantee)","price":1000000,"sale":75},
+  {"name":"Legendary C stuff","price":4000,"sale":35},
+
+  {"name":"GLFW","price":1250,"sale":0},
+  {"name":"SDL 1.2","price":525,"sale":75},
+  {"name":"SDL 2","price":1000,"sale":5},
+  {"name":"SDL 3","price":1500,"sale":15},
+  {"name":"All SDL libs collection","price":2356.25,"sale":15},
+
+  {"name":"Zlib","price":675,"sale":5},
+  {"name":"Libpng 16 LEGACY","price":100,"sale":5},
+  {"name":"Libpng","price":160,"sale":2},
+
+  {"name":"Full GAMEDEV COLLECTION (SPECIAL DEAL) 5X CLASSES","price":30933.363,"sale":50},
+  {"name":"Hello world beginner kit","price":100,"sale":0},
+
+  {"name":"X86 and PowerPC optimisation stuff (SPECIAL DEAL)","price":25000,"sale":60},
+
+  {"name":"Class - complectation stock (public and private methods, no constructor and destructor)","price":1000,"sale":25},
+  {"name":"Class - complectation beginner (public, private, protected methods, constructor only)","price":1250,"sale":25},
+  {"name":"Class - complectation MAX (ALL CLASS CONTENT)","price":1500,"sale":25},
+  {"name":"OOP MAX PACK 10X","price":15000,"sale":0},
+
+  {"name":"Asio","price":6500,"sale":10},
+  {"name":"windows.h - Make your windows app","price":4000,"sale":50},
+  {"name":"Close source hater pack","price":15,"sale":0},
+
+  {"name":"SPECIAL DEAL: Working interface and gfx, input, sound, components stuff for GAMEDEV GUYS (including stack overflow error fix kit, and gamedev kit)","price":275466.68,"sale":75},
+
+  {"name":"STL removing service (For C guys)","price":2000,"sale":15},
+  {"name":"unsigned char's 50X pack (there is no 1x unsigned char)","price":1000,"sale":75},
+
+  {"name":"OS/2 programming software collection","price":6000,"sale":99},
+
+  {"name":"Linux Arch guy programming pack (including: all collection of hate packs, Linux arch with anime theme, KDE Plasma, Python, C++ E3 STL)","price":10412.5,"sale":24},
+
+  {"name":"Assembler and C collection, AND extern \"C\" for LEGACY CODE","price":19995,"sale":0},
+
+  {"name":"Forgot about STL! TEEWORLDS BASE LIB - this is your new arrays","price":600,"sale":25},
+
+  {"name":"Linux Slackware programmer pack (including: Legendary and legacy programming stuff, C and Assembler collection, Dev C++)","price":22482.5,"sale":15}
+]
